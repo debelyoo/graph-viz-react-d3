@@ -12,7 +12,7 @@ const theme = createMuiTheme({
     primary: {
       main: "#00acf0",
       contrastText: "#fff",
-    }, // Sqooba blue
+    },
   },
 });
 
