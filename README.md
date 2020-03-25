@@ -4,8 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A pet project to play with graph visualization in react
 
+## Prepare the app
+
+`npm install`
+
 ## Run the app
 
-npm install
-
-npm start
+`npm start`
