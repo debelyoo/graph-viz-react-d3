@@ -52,7 +52,7 @@ const Home: React.FC<{}> = () => {
   };
 
   const myConfig = {
-    width: "100%",
+    width: 600,
     // nodeHighlightBehavior: true,
     // staticGraphWithDragAndDrop: true,
     node: {
@@ -71,7 +71,7 @@ const Home: React.FC<{}> = () => {
       gravity: -400,
       linkLength: 300,
       linkStrength: 1,
-      disableLinkForce: false,
+      disableLinkForce: true,
     },
   };
 
